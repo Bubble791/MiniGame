@@ -1,0 +1,3 @@
+OFFSET := 0x123E600
+ROM_NAME := BPRE0.gba
+OUTPUT_NAME := test.gba
