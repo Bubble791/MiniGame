@@ -1,4 +1,7 @@
 # 设置参数
 config.mk和linker.ld里的0x123E600地址改为空位地址
+
 excavation.h最下面的道具编号修改
+
 routinepointers 里的地址改成一个没用上的special地址，在cfru的routinepointers里搜索sp00挑一个
+
